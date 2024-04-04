@@ -23,6 +23,30 @@
       "email": "user44@gmail.com",
       "password": "user111",
       "role": "user"
+    },
+    {
+      "id": 4,
+      "firstName": "Taron",
+      "lastName": "Sargsyan",
+      "email": "narek@mail.ru",
+      "password": "narek1234",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "firstName": "Suro",
+      "lastName": "Sargsyan",
+      "email": "sur@mail.ru",
+      "password": "narek1234",
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "firstName": "Anush",
+      "lastName": "Margaryan",
+      "email": "anush@mail.ru",
+      "password": "anush789",
+      "role": "admin"
     }
   ]
 }
