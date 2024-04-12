@@ -13,7 +13,7 @@
       "firstName": "User",
       "lastName": "User123",
       "email": "user@gmail.com",
-      "password": "user",
+      "password": "user123",
       "role": "user"
     },
     {
@@ -29,7 +29,7 @@
       "firstName": "Taron",
       "lastName": "Sargsyan",
       "email": "narek@mail.ru",
-      "password": "narek1234",
+      "password": "narekjan8",
       "role": "user"
     },
     {
@@ -46,6 +46,22 @@
       "lastName": "Margaryan",
       "email": "anush@mail.ru",
       "password": "anush789",
+      "role": "admin"
+    },
+    {
+      "id": 7,
+      "firstName": "Karen",
+      "lastName": "Hakobyan",
+      "email": "karen@gmail.com",
+      "password": "karen1234",
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "firstName": "Gor",
+      "lastName": "Margaryan",
+      "email": "karen@gmail.com",
+      "password": "12358789",
       "role": "admin"
     }
   ]
